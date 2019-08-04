@@ -1,6 +1,9 @@
-# Draco
-A free PSD & HTML resume template.
-See the demo [here](http://draco.afnizarnur.com/) and download the latest release [here](https://github.com/afnizarnur/draco/releases).
+# myResume
+This is my first repo on GitHub and I hope not the last.
+This is fork from [afnizarnur](https://github.com/afnizarnur/draco).
+
+The main idea for now is to learn how to use GitHub properly, use my own repo, push and pull and run this on my RaspberryPi.
+
 ![Draco](https://cloud.githubusercontent.com/assets/4648648/26038614/72fe3772-3936-11e7-8f88-3781aea67bdc.png)
 
 ## License
