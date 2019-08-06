@@ -1,6 +1,6 @@
 # myResume
 This is my first repo on GitHub and I hope not the last.
-This is fork from [afnizarnur](https://github.com/afnizarnur/draco).
+This is a fork from [afnizarnur](https://github.com/afnizarnur/draco)'s great work.
 
 The main idea for now is to learn how to use GitHub properly, use my own repo, push and pull and run this on my RaspberryPi.
 
