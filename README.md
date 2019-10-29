@@ -11,7 +11,7 @@ I always wanted to create my own website, so creating an online resume seemed to
 ### How?
 
 As said above, I forked [afnizarnur's draco repo](https://github.com/afnizarnur/draco).
-As I am still fairly new to all of this, I decided to use [Codeny](http://codenvy.io). I think it is a great tool, wherever I am, I can work on this website.
+As I am still fairly new to all of this, I decided to use [Codenvy](http://codenvy.io). I think it is a great tool, wherever I am, I can work on this website.
 
 ### What's the plan?
 
